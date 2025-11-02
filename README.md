@@ -18,7 +18,8 @@ Install dependencies:
 
 bash
 pip install -r requirements.txt
-Run the setup notebook (main.ipynb) to initialize packages and download NLTK data.
+
+Run the setup notebook to initialize packages and download NLTK data.
 
 🧠 Technologies Used
 
